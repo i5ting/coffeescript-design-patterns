@@ -85,6 +85,8 @@ class Example
 Example.run()
 ```
 
+- Concrete: 具体的；实在的；有形的
+
 Builder
 --------------------------------------------------------------------------------
 
@@ -126,6 +128,9 @@ class Client
 
 Client.run()
 ```
+
+http://www.cnblogs.com/happyhippy/archive/2010/09/01/1814287.html
+
 
 Factory Method
 --------------------------------------------------------------------------------
